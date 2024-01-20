@@ -47,7 +47,7 @@ There are several sub-components to addressing the above task. We would work wit
 | Subject coordinates | Joyce Zhang          | lele.zhang@unimelb.edu.au |
 | Industry consultant | Marika Benetti-Hille | m.benetti@unimelb.edu.au  |
 | Project Supervisor  | Feng Liu             | feng.liu1@unimelb.edu.au  |
-| Project Host        | Vassili Kitsios      | Vassili.Kitsios@csiro.au  |
+| Project Host        | Va***** K******      | ************************  |
 
 - Discord: https://discord.gg/zWXzJGQBUp
 - Slack: https://team36mast90106.slack.com
